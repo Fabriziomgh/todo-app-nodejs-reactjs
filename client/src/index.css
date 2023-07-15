@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+    background: linear-gradient(rgb(17, 24, 39), rgb(75, 85, 99));
+    background-attachment: fixed;
+    min-height: 100vh;
+    color: white;
+}
